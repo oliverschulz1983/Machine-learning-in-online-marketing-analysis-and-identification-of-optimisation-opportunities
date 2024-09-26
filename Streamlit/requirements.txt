@@ -1,0 +1,13 @@
+streamlit
+statsmodels
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+forecast
+sklearn.preprocessing
+sklearn.model_selection
+sklearn.linear_model
+sklearn.metrics
+sklearn
+
