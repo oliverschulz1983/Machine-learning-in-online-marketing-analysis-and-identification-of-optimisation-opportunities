@@ -13,9 +13,15 @@ from sklearn import metrics
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+from pathlib import Path
+
 # Function to get the filtered data set
 def get_data(campaign):
-    mldata = pd.read_csv("mldata.csv")
+    
+    # usage of pathlib
+    PROJECT_DIR = Path(__file__).parent
+    path = PROJECT_DIR / 'mldata.csv'
+    mldata = pd.read_csv(path)
 
     # Preprocessing LinReg with "post_click_sales_amount" as Target
 
