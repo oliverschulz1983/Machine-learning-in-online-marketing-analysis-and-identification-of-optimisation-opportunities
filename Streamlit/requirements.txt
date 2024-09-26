@@ -2,12 +2,9 @@ streamlit
 statsmodels
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
 forecast
-sklearn.preprocessing
-sklearn.model_selection
-sklearn.linear_model
-sklearn.metrics
 sklearn
+
 
