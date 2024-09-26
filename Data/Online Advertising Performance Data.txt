@@ -1,0 +1,25 @@
+Online Advertising Performance Data
+
+The dataset provides insights into the online advertising performance of a company, referred to as "Company X", from April 1, 2020, to June 30, 2020. The currency used for transactions is the US dollar.
+
+Metrics:
+
+Day: Date of the advertising campaign.
+Campaign: A segmentation variable set by Company X to target specific groups of users with advertisements.
+User Engagement: Indicates the level of engagement of users targeted by the advertising campaign.
+Banner: Represents the size of the ad served by an advertising platform, referred to as "Advert Firm A".
+Placement: Denotes the publisher space where the ad is served by "Advert Firm A", such as websites or apps.
+Displays: The number of ads served by "Advert Firm A" during the campaign period.
+Cost: The price paid by "Advert Firm A" to serve the ads to the publisher. It reflects the placement cost of the advertisements.
+Clicks: The number of times users clicked on the advertisements during the campaign.
+Revenue: The price paid by Company X to "Advert Firm A" for the clicks generated through the advertising campaign.
+Post Click Conversions: Represents on-site transactions that occurred within the next 30 days after a user clicked on the advertisement.
+Post Click Sales Amount: The monetary value of on-site transactions that occurred within the next 30 days after a user clicked on the advertisement.
+
+Additional Information:
+
+- Engagement: This variable signifies the type of users targeted by the campaign based on their behavior or characteristics.
+  
+- Banner: Defines the size of the advertisement or impression served to users.
+
+- Placement: Specifies the website or app where the advertisement is being served, without disclosing the specific names of publishers.
