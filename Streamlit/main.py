@@ -69,7 +69,7 @@ with col1:
     
     # Show by data set selection
     if campaign:
-        adspend = st.sidebar.number_input('How much advertising budget (in USD) do you have available?')
+        adspend = st.sidebar.number_input('How much advertising budget (in USD) do you have available?', value=1)
 
     # Show after ad spend entry 
     if adspend:
